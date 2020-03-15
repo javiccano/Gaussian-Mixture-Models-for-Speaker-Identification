@@ -2,4 +2,4 @@
 
 ## Acknowledgements
 
-Unviversity Carlos III of Madrid, Speech and Audio Processing.
+University Carlos III of Madrid, Speech and Audio Processing.
