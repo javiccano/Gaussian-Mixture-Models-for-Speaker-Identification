@@ -1,4 +1,4 @@
-# Gaussian-Mixture-Models-for-Speaker-Identification
+# Gaussian Mixture Models for Speaker Identification
 
 ## Acknowledgements
 
